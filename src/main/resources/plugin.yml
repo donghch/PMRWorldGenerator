@@ -1,0 +1,6 @@
+name: PlotGenerator
+main: me.henrydhc.testgen.PlotGenerator
+api-version: 1.17
+version: 1.0
+load: startup
+description: Simply makes a PlotMe style world
